@@ -2,7 +2,7 @@
 
 This program uses a training text to generate probabilites for a test text. 
 
-Usage: $python  ngram.py <train-text> <test-text> <output file>
+Usage: $python  ngram.py train-text test-text output-file
 
 A brief primer on ngram probabilities...
 
